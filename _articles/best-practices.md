@@ -218,6 +218,7 @@ Just as there are tasks that other people can help you with, there are also task
 
 ### Require tests and other checks to improve the quality of your code
 
+
 One of the most important ways you can automate your project is by adding tests.
 
 Tests help contributors feel confident that they won't break anything. They also make it easier for you to review and accept contributions quickly. The more responsive you are, the more engaged your community can be.
